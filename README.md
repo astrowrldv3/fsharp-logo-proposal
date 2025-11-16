@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/fsharp-logo-proposal)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/fsharp-logo-proposal)
 
+<img width="1745" height="414" alt="image" src="https://github.com/user-attachments/assets/7c6abb70-8115-45e0-9767-8bccef0aa109" />
 
 # F# Logo Proposal
 
