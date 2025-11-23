@@ -9,25 +9,21 @@
 
 # F# Logo Proposal
 
-This repository contains a proposal for an improved F# language logo design.
+Proposed redesign of the F# logo.
 
-## Available Formats
+## Formats
 
-The repository includes logo files in the following formats:
-- PNG
-- SVG
-- WebP
+PNG, SVG, WebP
 
-## Documentation
+## Files
 
-The [fsharp-logo-proposal.pdf](https://github.com/mg0x7BE/fsharp-logo-proposal/blob/master/fsharp-logo-proposal.pdf) file contains a detailed description and documentation of the proposed changes.
-
-The `fsharp-logo-proposal.afdesign` file contains the original design project created in Affinity Designer.
+- [fsharp-logo-proposal.pdf](https://github.com/mg0x7BE/fsharp-logo-proposal/blob/master/fsharp-logo-proposal.pdf) - design rationale
+- `fsharp-logo-proposal.afdesign` - Affinity Designer source file
 
 ## Usage
 
-I hope this proposal resonates with the amazing F# community! Even if it doesn't gain widespread adoption, anyone who likes this design is welcome to use the project and the files available here.
+Free to use.
 
 ## License
 
-This project is released under the [Unlicense](LICENSE) license.
+[Unlicense](LICENSE)
